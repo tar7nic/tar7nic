@@ -13,5 +13,3 @@ Hi! 👋<br>I'm Tarun, a computer science student.<br><br>Interested in: <br>Art
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tar7nic&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
