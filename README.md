@@ -9,7 +9,7 @@
 <td width="55%" valign="top">
 
 ```python
-class Tarun:
+class tarun:
 
     def __init__(self):
         self.role = "Computer Science Student 🎓"
@@ -21,7 +21,7 @@ class Tarun:
     def life_philosophy(self):
         return "while(alive): keep_learning() 💡"
 
-me = Tarun()
+me = tarun()
 ```
 
 </td>
