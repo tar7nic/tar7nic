@@ -9,19 +9,18 @@
 <td width="55%" valign="top">
 
 ```python
-class tarun:
+Traceback (most recent call last):
+  File "life.py", line 22, in <module>
+    sleep(6 * HOURS)
+  File "tarun.py", line 4, in sleep
+    raise TooManyIdeasException("another topic to study")
+  File "tarun.py", line 14, in plan
+    raise RecursionError("new project idea inside existing project idea")
 
-    def __init__(self):
-        self.role = "Computer Science Student 🎓"
-        self.obsessions = ["AI/ML 🤖", "Data Science and Analysis 📊"]
-        self.learning = ["DSA 🧠", "Web Dev 🌐"]
-        self.tools = ["Python 🐍", "Git 🔧", "Jupyter 📓"]
-        self.fun_fact = "I Live on jupyter :p"
-
-    def life_philosophy(self):
-        return "while(alive): keep_learning() 💡"
-
-me = tarun()
+TabOverflowError:      screen_time=WARNING  # stopped counting out of concern
+RecursionError:        idea_depth exceeds sys.getrecursionlimit()
+SystemInfo:            Final Year @ VIT Bhopal | Targeting: AI/ML/DS Roles
+Handling:              kept_learning()  ← this never throws
 ```
 
 </td>
