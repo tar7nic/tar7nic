@@ -61,7 +61,7 @@ Handling:              kept_learning()  ← this never throws
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tar7nic&theme=github_dark" width="100%" />
     </td>
     <td width="60%">
-     <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
     </td>
   </tr>
 </table>
