@@ -50,7 +50,7 @@ Handling:              kept_learning()  ← this never throws
 <table width="100%">
   <tr>
     <td width="40%">
-      <img src="https://streak-stats.demolab.com?user=tar7nic&theme=cobalt" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tar7nic&theme=cobalt&background=0d1117&border=0d1117" width="100%" />
     </td>
     <td width="60%">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" height="300" />
@@ -61,7 +61,7 @@ Handling:              kept_learning()  ← this never throws
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tar7nic&theme=github_dark" width="100%" />
     </td>
     <td width="60%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tar7nic&theme=react-dark" width="100%" />
+     <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
     </td>
   </tr>
 </table>
