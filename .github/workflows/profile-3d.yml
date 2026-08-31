@@ -9,6 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-3d-contrib
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
+      ACTIONS_RUNNER_FORCE_NODE24: "true"
     steps:
       - uses: actions/checkout@v4
 
@@ -16,7 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
       - name: Commit & Push
         run: |
